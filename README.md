@@ -1,6 +1,6 @@
-# first_app
+# Flutter BLE App
 
-A new Flutter project.
+A new Flutter project with flutter_blue package.
 
 ## Getting Started
 
